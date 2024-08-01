@@ -273,7 +273,7 @@ img{
   }
   
   .resume_button:hover {
-    background-color: #5361FF;
+    background-color: gray;
     text-decoration: none;
   }
 
