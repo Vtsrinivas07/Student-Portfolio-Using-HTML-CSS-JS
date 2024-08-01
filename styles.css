@@ -262,6 +262,20 @@ img{
     font-size: 1rem;
     cursor: pointer;
 }
+.resume_button {
+    text-decoration: none;
+    color: #fff;
+    background-color: #5361FF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .resume_button:hover {
+    background-color: gray;
+    text-decoration: none;
+  }
 
 /* ===== FOOTER=====*/
 .footer{
